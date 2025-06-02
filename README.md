@@ -1,6 +1,8 @@
 # ClipDog 🐕
 
-A stylish macOS menu bar app that saves you from clipboard attacks.
+A macOS menu bar app that saves you from clipboard attacks.
+![alt](/clipdogscr.png)
+![alt](/clipdogscr2.png)
 
 ## Features
 
